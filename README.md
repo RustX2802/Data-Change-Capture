@@ -7,6 +7,7 @@ This project provides a quick way to set up and experiment with Data Change Capt
 ## System Overview
 
 The project simulates a data pipeline where transaction data is generated and stored in a Postgres database. A system architecture image shows how these components are interconnected:
+
 ![system architecture.png](system%20architecture.png)
 
 ## Requirements
